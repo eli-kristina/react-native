@@ -1,3 +1,3 @@
 ## Getting started
 
-[documentation](https://reactnative.dev/docs/getting-started)
+You can found the documentation [here](https://reactnative.dev/docs/getting-started).
